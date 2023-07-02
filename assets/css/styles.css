@@ -1,0 +1,17 @@
+body {
+  background-color: grey;
+}
+
+.content {
+  border: 5px solid;
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+  background-color: white;
+  text-align:center;
+
+}
+
+.counter{
+  color: green;
+}
